@@ -7,18 +7,17 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         :root {
-            --bg-color: #0b0f19;
-            --card-bg: rgba(17, 24, 39, 0.65);
-            --card-border: rgba(255, 255, 255, 0.08);
-            --accent-color: #10b981;
-            --accent-hover: #059669;
-            --text-main: #f3f4f6;
-            --text-muted: #9ca3af;
-            --glass-glow: rgba(16, 185, 129, 0.15);
-            --code-bg: rgba(0, 0, 0, 0.4);
-        }
+            -bg-color: #0b0f19;
+            -card-bg: rgba(17, 24, 39, 0.65);
+            -card-border: rgba(255, 255, 255, 0.08);
+            -accent-color: #10b981;
+            accent-hover: #059669;
+            text-main: #f3f4f6;
+            text-muted: #9ca3af;
+            glass-glow: rgba(16, 185, 129, 0.15);
+            code-bg: rgba(0, 0, 0, 0.4);
 
-        * {
+        {
             box-sizing: border-box;
             margin: 0;
             padding: 0;
